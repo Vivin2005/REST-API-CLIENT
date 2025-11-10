@@ -103,4 +103,6 @@ Internet-based programming
 
 ** OUTPUT **
 
+THE BELOW OUTPUT ABOUT (REST_API_CLIENT).
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/771de5d1-5381-41da-9de4-0991c454776f" />
